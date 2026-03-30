@@ -11,8 +11,6 @@ Issue and return books with due dates
 
 Track availability status
 
-Secure password storage with bcrypt
-
 REST API with interactive docs
 
 # Tech Stack
