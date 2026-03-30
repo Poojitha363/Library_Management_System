@@ -5,16 +5,16 @@ This project provides REST APIs to manage books, members, and transactions (issu
 It demonstrates clean backend design, secure password storage, and database integration.
 
 # Features
-Add, update, delete, and search books
-Manage library members
-Issue and return books with due dates
-Track availability status
-REST API with interactive docs 
+1.Add, update, delete, and search books
+2.Manage library members
+3.Issue and return books with due dates
+4.Track availability status
+5.REST API with interactive docs 
 
 # Tech Stack
-Python 3.9+
-FastAPI (backend framework)
-SQLite (database)
+1.Python 3.9+
+2.FastAPI (backend framework)
+3.SQLite (database)
 
 # Project Structure 
 library_management/
