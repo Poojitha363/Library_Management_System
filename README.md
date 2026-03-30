@@ -1,7 +1,7 @@
 # Library_Management_System
-A backend‑only Library Management System built with FastAPI and SQLite.
-This project provides REST APIs to manage books, members, and transactions (issue/return), with secure password storage using bcrypt. It’s lightweight, easy to run, and demonstrates clean backend design for interviews or real‑world use.
-
+A simple Library Management System built with FastAPI and SQLite.
+This project provides REST APIs to manage books, members, and transactions (issue/return).
+It demonstrates clean backend design, secure password storage, and database integration.
 # Features
 Manage books (add, update, delete, search)
 
